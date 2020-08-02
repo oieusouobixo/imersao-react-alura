@@ -10,7 +10,7 @@ function App() {
     <div style={{ background: "#141414" }}>
       <Menu />
 
-      <BannerMain
+      
     </div>
   );
 }
